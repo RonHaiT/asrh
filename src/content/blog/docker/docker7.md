@@ -33,7 +33,7 @@ cp -r webapps.dist/* webapps/
 
 在访问tomcat:127.0.0.1:8080
 
-![image-20240427205129582](assets/image-20240427205129582-7026509.png)
+![image-20240427205129582](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240427205129582-7026509.png)
 
 ## 容器转镜像
 

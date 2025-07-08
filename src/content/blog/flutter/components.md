@@ -71,7 +71,7 @@ Widget swiper() {
   }
 ```
 
-![image-20250214104211824](assets/image-20250214104211824.png)
+![image-20250214104211824](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250214104211824.png)
 
 # 屏幕适配组件
 
@@ -537,7 +537,7 @@ class _DeviceurllauncherState extends State<Deviceurllauncher> {
 ```
 可以打开源码方式增加,如下图:
 
-![image-20250131021220373](assets/image-20250131021220373.png)
+![image-20250131021220373](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250131021220373.png)
 
 ## 发送短信
 

@@ -32,17 +32,17 @@ draft: false
   - 第四项域名：七牛云=>CDN=>域名管理=>域名
   - 默认存储区域：[配置手册 | PicGo](https://picgo.github.io/PicGo-Doc/zh/guide/config.html#七牛图床)查看对应的值填写即可
 
-  ![image-20231109163515517](assets/image-20231109163515517.png)
+  ![image-20231109163515517](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109163515517.png)
 
 ## 配置 Markdown
 
 - 打开偏好设置
 
-  ![image-20231109163543362](assets/image-20231109163543362.png)
+  ![image-20231109163543362](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109163543362.png)
 
 - 找到图像=>上传服务设定=>选择 PicGo.app=>验证图片上传选项
 
-  ![image-20231109163557899](assets/image-20231109163557899.png)
+  ![image-20231109163557899](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109163557899.png)
 
 - 验证成功
 

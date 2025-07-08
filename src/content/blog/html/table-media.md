@@ -49,11 +49,11 @@ draft: false
 </table>
 ```
 
-![image-20230813222748932](assets/image-20230813222748932.png)
+![image-20230813222748932](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813222748932.png)
 
 ### 水平单元格合并
 
-![image-20230813222918797](assets/image-20230813222918797.png)
+![image-20230813222918797](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813222918797.png)
 
 ```html
 <tbody>
@@ -83,7 +83,7 @@ draft: false
 </tbody>
 ```
 
-![image-20230813223309337](assets/image-20230813223309337.png)
+![image-20230813223309337](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813223309337.png)
 
 ## 视频
 

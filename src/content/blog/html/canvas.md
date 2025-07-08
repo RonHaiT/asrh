@@ -35,7 +35,7 @@ app.fillStyle = "red";
 app.fillRect(0, 0, el.offsetWidth, el.offsetHeight);
 ```
 
-![image-20231019150958988](assets/image-20231019150958988.png)
+![image-20231019150958988](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019150958988.png)
 
 ```typescript
 app.fillStyle = "green";
@@ -43,7 +43,7 @@ app.fillStyle = "green";
 app.fillRect(el.offsetWidth / 2 - 50, el.offsetHeight / 2 - 50, 100, 100);
 ```
 
-![image-20231019151033686](assets/image-20231019151033686.png)
+![image-20231019151033686](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019151033686.png)
 
 ## 画矩形
 
@@ -58,7 +58,7 @@ app.lineJoin = "round";
 app.strokeRect(50, 50, 200, 200);
 ```
 
-![image-20231019153754825](assets/image-20231019153754825.png)
+![image-20231019153754825](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019153754825.png)
 
 ## 画圆
 
@@ -74,7 +74,7 @@ app.arc(150, 150, 100, 0, 2 * Math.PI);
 app.stroke();
 ```
 
-![image-20231019154451716](assets/image-20231019154451716.png)
+![image-20231019154451716](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019154451716.png)
 
 ## 不规则形状
 
@@ -99,7 +99,7 @@ app.lineWidth = 20;
 app.stroke();
 ```
 
-![image-20231019155611652](assets/image-20231019155611652.png)
+![image-20231019155611652](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019155611652.png)
 
 ```typescript
 //提笔
@@ -120,7 +120,7 @@ app.lineWidth = 20;
 app.fill();
 ```
 
-![image-20231019155756082](assets/image-20231019155756082.png)
+![image-20231019155756082](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019155756082.png)
 
 ## 渐变色
 
@@ -135,7 +135,7 @@ app.fillStyle = gradient;
 app.fillRect(0, 0, 300, 300);
 ```
 
-![image-20231019161519036](assets/image-20231019161519036.png)
+![image-20231019161519036](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019161519036.png)
 
 ```typescript
 const gradient = app.createLinearGradient(150, 0, 300, 300);
@@ -148,7 +148,7 @@ app.lineJoin = "round";
 app.strokeRect(50, 50, 200, 200);
 ```
 
-![image-20231019161652426](assets/image-20231019161652426.png)
+![image-20231019161652426](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019161652426.png)
 
 ## 文本绘制
 
@@ -168,7 +168,7 @@ app.lineWidth = 2;
 app.strokeText("晚生隆海", 70, 100);
 ```
 
-![image-20231019162703539](assets/image-20231019162703539.png)
+![image-20231019162703539](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019162703539.png)
 
 ## 图片贴图
 
@@ -190,7 +190,7 @@ img.onload = () => {
 };
 ```
 
-![image-20231019164541560](assets/image-20231019164541560.png)
+![image-20231019164541560](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019164541560.png)
 
 ## 图片绘制
 
@@ -206,7 +206,7 @@ img.onload = () => {
 };
 ```
 
-![image-20231019165152796](assets/image-20231019165152796.png)
+![image-20231019165152796](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019165152796.png)
 
 ### 等比例缩放
 
@@ -225,7 +225,7 @@ function scale(img: HTMLImageElement, el: HTMLCanvasElement) {
 }
 ```
 
-![image-20231019165949252](assets/image-20231019165949252.png)
+![image-20231019165949252](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231019165949252.png)
 
 ## 黑板案例
 

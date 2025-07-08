@@ -71,7 +71,7 @@ mkdir tomcat
 
 - 浏览器访间 http://127.0.0.1:8080/myweb/index.html
 
-  ![image-20240427165956804](assets/image-20240427165956804.png)
+  ![image-20240427165956804](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240427165956804.png)
 
 ## Nginx
 
@@ -138,7 +138,7 @@ mkdir nginx
 
 - 外部机器访问 http://127.0.0.1:80 #默认80可以省略
 
-  ![image-20240427172135174](assets/image-20240427172135174.png)
+  ![image-20240427172135174](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240427172135174.png)
 
 ## Mysql   
 
@@ -396,4 +396,4 @@ firewall-cmd --reload
 
 访问地址:http://127.0.0.1:15672
 
-![image-20240427204257851](assets/image-20240427204257851.png)
+![image-20240427204257851](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240427204257851.png)

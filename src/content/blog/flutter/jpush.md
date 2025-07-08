@@ -208,8 +208,6 @@ android: {
 
 ### 最终效果
 
-![image-20240718123343707](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1065 744"%3E%3C/svg%3E)
+![image-20240718123359836](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240718123359836.png)
 
-![image-20240718123359836](assets/image-20240718123359836.png)
-
-![image-20240718123414593](assets/image-20240718123414593.png)
+![image-20240718123414593](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240718123414593.png)

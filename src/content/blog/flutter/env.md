@@ -122,9 +122,9 @@ Mac[官方](https://flutter.dev/docs/development/tools/sdk/releases#macos)
 D:\flutter\bin
 ```
 
-![image-20240710122725329](assets/image-20240710122725329.png)
+![image-20240710122725329](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240710122725329.png)
 
-![image-20240710122812449](assets/image-20240710122812449.png)
+![image-20240710122812449](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240710122812449.png)
 
 ### 安装 java SE
 
@@ -244,9 +244,9 @@ flutter开发打包android的gradle是使用的Android studio的java版本，可
 
 - 安装 flutter 插件
 
-  ![image-20240710122924240](assets/image-20240710122924240.png)
+  ![image-20240710122924240](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240710122924240.png)
 
- ![image-20240710122952803](assets/image-20240710122952803.png)
+ ![image-20240710122952803](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240710122952803.png)
 
 ## 安装 Android 证书
 
@@ -404,7 +404,7 @@ flutter create projectname --org com.ronhai
 
 安装运行即可
 
-![image-20241211151939855](assets/image-20241211151939855.png)
+![image-20241211151939855](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241211151939855.png)
 
 ## gradle 报错处理
 
@@ -432,13 +432,13 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-7.6.3-all.zip
 
 在用户名下的.gradle 中找到 wrapper
 
-![image-20250210173503863](assets/image-20250210173503863.png)
+![image-20250210173503863](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250210173503863.png)
 
 下载好后解压到相应版本的目录下，我的目录是在`C:\Users\ronhai\.gradle\wrapper\dists\gradle-7.6.3-all\aocdy2d2z8kodnny3rsumj8i8`解压下载到直目录 
 
 手动复制.zip.lck 文件更名为.zip.ok 重新运行项目即可，目录和文件保持以下结构
 
-![image-20250227145811720](assets/image-20250227145811720.png)
+![image-20250227145811720](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250227145811720.png)
 
 ## 设置代理
 
@@ -642,11 +642,11 @@ class MainActivity: FlutterActivity()
 
 ## kotlin/com 下的包名
 
-![image-20241231151111320](assets/image-20241231151111320.png)
+![image-20241231151111320](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241231151111320.png)
 
 改为
 
-![image-20241231151137225](assets/image-20241231151137225.png)
+![image-20241231151137225](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241231151137225.png)
 
 ## 重新生成ios和安卓
 

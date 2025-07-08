@@ -73,7 +73,7 @@ systemctl restart sshd
 
   使用 sudo
 
-  ![image-20231109222630429](assets/image-20231109222630429.png)
+  ![image-20231109222630429](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109222630429.png)
 
 ## 文件传输
 

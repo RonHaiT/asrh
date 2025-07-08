@@ -23,7 +23,7 @@ yum install -y gcc-c++ pcre pcre-devel zlib zlib-devel openssl openssl-devel
 
 右键红色框处复制地址
 
-![image-20231109223504595](assets/image-20231109223504595.png)
+![image-20231109223504595](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109223504595.png)
 
 检查 wget,以下提示表示有
 
@@ -71,7 +71,7 @@ cd nginx-1.24.0/
 ./configure --prefix=/usr/local/nginx --user=www --group=www --with-http_stub_status_module --with-http_ssl_module
 ```
 
-![image-20231109224057685](assets/image-20231109224057685.png)
+![image-20231109224057685](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109224057685.png)
 
 执行安装，可能新系统提示没有`make`命令，输入 y 继续安装执行即可
 
@@ -135,7 +135,7 @@ systemctl restart nginx.service
 systemctl status nginx.service
 ```
 
-![image-20231109224959390](assets/image-20231109224959390.png)
+![image-20231109224959390](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109224959390.png)
 
 ### 重启后执行查看 80 端口占用
 
@@ -147,7 +147,7 @@ netstat -tlunp | grep 80
 
 放行后访问 ip 地址可以看到以下图,安装成功
 
-![image-20231109230321051](assets/image-20231109230321051.png)
+![image-20231109230321051](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20231109230321051.png)
 
 ## 常用配置
 

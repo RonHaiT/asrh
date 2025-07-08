@@ -1479,13 +1479,13 @@ source ~/.zshrc
 
 win+r输入sysdm.cpl打开系统属性找到高级的环境变量设置
 
-![image-20240802162337456](assets/image-20240802162337456.png)
+![image-20240802162337456](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240802162337456.png)
 
-![image-20240802162406736](assets/image-20240802162406736.png)
+![image-20240802162406736](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240802162406736.png)
 
 关闭命令行窗口重新打开,你输入get或者getx查看是否安装成功
 
-![image-20240802162712279](assets/image-20240802162712279.png)
+![image-20240802162712279](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240802162712279.png)
 
 ## 使用get_cli命令行
 
@@ -1497,7 +1497,7 @@ win+r输入sysdm.cpl打开系统属性找到高级的环境变量设置
 get init 
 ```
 
-![image-20250203021834996](assets/image-20250203021834996.png)
+![image-20250203021834996](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250203021834996.png)
 
 ###  创建页面
 

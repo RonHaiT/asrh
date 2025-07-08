@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![image-20241226154108767](assets/image-20241226154108767.png)
+![image-20241226154108767](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241226154108767.png)
 
 ### Container 实现圆形图片
 
@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![image-20241226162948490](assets/image-20241226162948490.png)
+![image-20241226162948490](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241226162948490.png)
 
 ### ClipOval 实现圆形图片
 
@@ -123,7 +123,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![image-20241226163243599](assets/image-20241226163243599.png)
+![image-20241226163243599](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241226163243599.png)
 
 ### CircleAvatar 实现圆形图片
 
@@ -176,7 +176,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![image-20241226163813648](assets/image-20241226163813648.png)
+![image-20241226163813648](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241226163813648.png)
 
 ### 加载本地图片
 
@@ -239,7 +239,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![image-20241226154430034](assets/image-20241226154430034.png)
+![image-20241226154430034](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241226154430034.png)
 
 ### flutter-img-sync插件自动写本地图片
 
@@ -249,7 +249,7 @@ vscode安装flutter-img-sync插件
 
 在asssets下新建Images目录,放入相应的图片
 
-![image-20250212165907419](assets/image-20250212165907419.png)
+![image-20250212165907419](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250212165907419.png)
 
 `pubspec.yaml`配置,找到assets配置如下
 
@@ -262,7 +262,7 @@ vscode安装flutter-img-sync插件
 
 F1输入命令FlutterimgSync
 
-![image-20250212165937440](assets/image-20250212165937440.png)
+![image-20250212165937440](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250212165937440.png)
 
 全在`pubspec.yaml`自动配置图片
 
@@ -297,7 +297,7 @@ Flutter 中借助阿里巴巴图标库自定义字体图标
 
 假设我们项目中需要使用一套图标，我们打包下载后导入
 
-![image-20240716103651884](assets/image-20240716103651884.png)
+![image-20240716103651884](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240716103651884.png)
 
 也可以配置多个字体文件
 
@@ -376,7 +376,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-![image-20240716103716547](assets/image-20240716103716547.png)
+![image-20240716103716547](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240716103716547.png)
 
 ### 脚本生成静态图标类
 

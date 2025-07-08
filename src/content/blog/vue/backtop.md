@@ -129,7 +129,7 @@ less代码
 
 效果图
 
-![image-20250219100532875](assets/image-20250219100532875.png)
+![image-20250219100532875](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250219100532875.png)
 
 # Vue3返回顶部
 

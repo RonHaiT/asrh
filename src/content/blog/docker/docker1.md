@@ -153,15 +153,15 @@ draft: false
 
  下载地址：https://www.docker.com/products/docker-desktop/  
 
- ![image-20240402234105316](assets/image-20240402234105316.png)
+ ![image-20240402234105316](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240402234105316.png)
 
  安装好后打开，选择第一个默认设置，大多数开发者使用，后面的是自定义设置。
 
- ![image-20240406184050676](assets/image-20240406184050676.png)
+ ![image-20240406184050676](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240406184050676.png)
 
  设置好了后就可以在命令行运行docker，非常方便。
 
- ![image-20240402234316598](assets/image-20240402234316598.png)
+ ![image-20240402234316598](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240402234316598.png)
 
 # Windows
 

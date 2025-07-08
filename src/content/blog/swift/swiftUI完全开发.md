@@ -153,7 +153,7 @@ struct ContentView: View {
 }
 ```
 
-![image-20250223142449368](assets/image-20250223142449368.png)
+![image-20250223142449368](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223142449368.png)
 
 # Stack布局容器
 
@@ -216,7 +216,7 @@ struct SwiftUIStack: View {
 }
 ```
 
-![image-20250223145849963](assets/image-20250223145849963.png)
+![image-20250223145849963](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223145849963.png)
 
 ## 缺失页
 
@@ -257,7 +257,7 @@ struct DefaultImage: View {
 }
 ```
 
-![image-20250223150735869](assets/image-20250223150735869.png)
+![image-20250223150735869](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223150735869.png)
 
 ## 状态显示页
 
@@ -324,7 +324,7 @@ struct PopoverImage: View {
 }
 ```
 
-![image-20250223153116036](assets/image-20250223153116036.png)
+![image-20250223153116036](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223153116036.png)
 
 ## 开启定位
 
@@ -386,7 +386,7 @@ struct LocationPageView: View {
 }
 ```
 
-![image-20250223154130096](assets/image-20250223154130096.png)
+![image-20250223154130096](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223154130096.png)
 
 # Button按钮
 

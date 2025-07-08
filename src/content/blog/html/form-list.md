@@ -192,8 +192,6 @@ $: 匹配字符串的结束。
 </html>
 ```
 
-![image-20230813193337753](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 836 725"%3E%3C/svg%3E)
-
 > 这个正则表达式可以用于验证输入内容是否满足特定的格式。记住，在 HTML 的`pattern`属性中，正则表达式通常不需要包含起始和结束锚定符（`^` 和 `$`）。所以，在 HTML 中使用时，可以去掉这两个锚定符。
 
 ### TEXTAREA
@@ -249,7 +247,7 @@ $: 匹配字符串的结束。
 
 单选框指只能选择一个选项的表单，如性别的选择`男、女、保密` 只能选择一个。
 
-![image-20230813213933003](assets/image-20230813213933003.png)
+![image-20230813213933003](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813213933003.png)
 
 | 选项    | 说明                     |
 | ------- | ------------------------ |
@@ -267,7 +265,7 @@ $: 匹配字符串的结束。
 
 复选框指允许选择多个值的表单。
 
-![image-20230813213855757](assets/image-20230813213855757.png)
+![image-20230813213855757](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813213855757.png)
 
 ```html
 <fieldset>
@@ -288,7 +286,7 @@ $: 匹配字符串的结束。
 | multiple | 支持多选                                          |
 | accept   | 允许上传类型 `.png,.psd` 或 `image/png,image/gif` |
 
-![image-20230813214100351](assets/image-20230813214100351.png)
+![image-20230813214100351](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813214100351.png)
 
 ```html
 <form action="" method="POST" enctype="multipart/form-data">
@@ -314,7 +312,7 @@ $: 匹配字符串的结束。
 
 **日期选择**
 
-![image-20230813220347504](assets/image-20230813220347504.png)
+![image-20230813220347504](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813220347504.png)
 
 ```html
 <div>
@@ -331,7 +329,7 @@ $: 匹配字符串的结束。
 
 **周选择**
 
-![image-20230813220331339](assets/image-20230813220331339.png)
+![image-20230813220331339](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813220331339.png)
 
 ```html
 <div>
@@ -342,7 +340,7 @@ $: 匹配字符串的结束。
 
 **月选择**
 
-![image-20230813220320171](assets/image-20230813220320171.png)
+![image-20230813220320171](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813220320171.png)
 
 ```html
 <div>
@@ -353,7 +351,7 @@ $: 匹配字符串的结束。
 
 日期与时间
 
-![image-20230813220309108](assets/image-20230813220309108.png)
+![image-20230813220309108](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813220309108.png)
 
 ```html
 <div>
@@ -366,7 +364,7 @@ $: 匹配字符串的结束。
 
 input 表单的输入值选项列表
 
-![image-20230813220937711](assets/image-20230813220937711.png)
+![image-20230813220937711](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813220937711.png)
 
 ```html
 <form action="" method="post">
@@ -383,7 +381,7 @@ input 表单的输入值选项列表
 
 浏览器基于之前键入过的值，应该显示出在字段中填写的选项。
 
-![image-20230813221044190](assets/image-20230813221044190.png)
+![image-20230813221044190](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813221044190.png)
 
 ```html
 <form action="">
@@ -410,13 +408,13 @@ dl {
 }
 ```
 
-![image-20230813222005178](assets/image-20230813222005178.png)
+![image-20230813222005178](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813222005178.png)
 
 ### 有序列表
 
 有序列表是指有数字编号的列表项，可以使用`CSS`定义更多样式。
 
-![image-20230813221304748](assets/image-20230813221304748.png)
+![image-20230813221304748](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813221304748.png)
 
 ```html
 <ol>
@@ -430,7 +428,7 @@ dl {
 
 ### 无序列表
 
-![image-20230813221406232](assets/image-20230813221406232.png)
+![image-20230813221406232](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813221406232.png)
 
 ```html
 <ul>
@@ -447,7 +445,7 @@ dl {
 
 描述列表指每个列表项有单独的标题。
 
-![image-20230813221552042](assets/image-20230813221552042.png)
+![image-20230813221552042](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20230813221552042.png)
 
 ```html
 <dl>

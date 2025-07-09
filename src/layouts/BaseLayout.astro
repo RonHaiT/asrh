@@ -5,6 +5,7 @@ import Footer from "../components/Footer.astro";
 import PostCard from "../components/PostCard.astro";
 import NextPrevPage from "../components/NextPrevPage.astro";
 import Pagination from "../components/Pagination.astro";
+import TagLink from "../components/TagLink.astro";
 interface Props {
   title: string;
 }
@@ -24,6 +25,9 @@ let desc = "隆海的博客";
     <Header />
     <div class="max-w-3xl w-full mx-auto">
       <PostCard />
+      <TagLink href="/tags/astro" label="Astro" icon="🚀" color="#7b61ff" />
+      <TagLink href="/tags/theme" label="Theme" icon="📦" />
+      <TagLink href="/tags/stable" label="稳定运行" icon="✅" color="#4caf50" />
       <NextPrevPage />
       <Pagination />
       <slot />

@@ -69,7 +69,7 @@ C:\Program Files\wslh\index.html
 
 如果是 css 引入 sttic 的图片,就是../回到 navbar 根目录后找到 static 下的背景图片 ../static/bg.png
 
-![image-20250115224720845](assets/image-20250115224720845.png)
+![image-20250115224720845](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250115224720845.png)
 
 ```bash
 # 相对路径

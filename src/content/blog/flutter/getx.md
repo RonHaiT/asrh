@@ -1463,7 +1463,7 @@ source ~/.zshrc
 
 终端输入get或getx看到下图为安装成功
 
-![image-20250203020630512](assets/image-20250203020630512.png)
+![image-20250203020630512](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250203020630512.png)
 
 - windows
 

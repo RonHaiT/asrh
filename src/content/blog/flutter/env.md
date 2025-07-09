@@ -400,7 +400,7 @@ flutter create projectname --org com.ronhai
 
 打开 vscode 按 F1 输入 Flutter:New Project,创建新项目，等待下载完成创建
 
-![image-20241211155414670](assets/image-20241211155414670.png)
+![image-20241211155414670](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20241211155414670.png)
 
 安装运行即可
 

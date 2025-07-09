@@ -30,11 +30,11 @@ Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/).font(.system(siz
 
 - 点击导航栏的项目名称,选择"TARGETS",选择"Inof"
 
-- ![image-20250223112500177](assets/image-20250223112500177.png)
+- ![image-20250223112500177](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223112500177.png)
 
 - 选择到最后,点击+号输入Fonts 找到Fonts provided by application 在item0后的value输入字体名称
 
-- ![image-20250223113225002](assets/image-20250223113225002.png)
+- ![image-20250223113225002](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20250223113225002.png)
 
 - 使用字体
 

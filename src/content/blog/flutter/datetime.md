@@ -12,7 +12,7 @@ draft: false
 ```dart
 DateTime dateTime = DateTime.now();
 ```
-![image.png](assets/1737722456160-37b03eff-3a1f-4a70-932d-09f901422c7a.png)
+![image.png](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/1737722456160-37b03eff-3a1f-4a70-932d-09f901422c7a.png)
 
 ### 获取年月日
 

@@ -1,0 +1,18 @@
+---
+interface Props {
+  href: string;
+  label: string;
+  color?: string;
+  icon?: string;
+}
+// 接收三个参数
+const { href, label, color = "#444", icon = "" } = Astro.props;
+---
+
+<a
+  href={href}
+  style={`background:${color}; color:white; padding:4px 10px; border-radius:8px; font-size:12px; margin-right:6px; text-decoration:none; display:inline-block;`}
+>
+  {icon}
+  {label}
+</a>

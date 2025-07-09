@@ -974,7 +974,7 @@ module.exports = {
 
 文件目录 
 
-![image-20240305103024728](assets/image-20240305103024728.png)
+![image-20240305103024728](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240305103024728.png)
 
 ### 模块化处理
 
@@ -1014,7 +1014,7 @@ export namespace RH{
 
 会报以下错误
 
-![image-20240305104013813](assets/image-20240305104013813.png)
+![image-20240305104013813](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240305104013813.png)
 
 打包配置更改
 
@@ -1026,9 +1026,7 @@ export namespace RH{
   },
 ```
 
-![image-20240305104432142](assets/image-20240305104432142.png)
-
-![image-20240305104455012](data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1145 564"%3E%3C/svg%3E)
+![image-20240305104432142](https://cdn.jsdelivr.net/gh/RonHaiT/Image-hosting/image-20240305104432142.png)
 
 ## vue 构建工具-vite
 
